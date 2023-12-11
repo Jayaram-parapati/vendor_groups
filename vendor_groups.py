@@ -82,6 +82,7 @@ for vendor in tqdm(vendors):
         
        
     
+    
 ratios_dict = {
     'vendor_group_ids_ratio': vendor_group_ids_ratio,
     'vendor_group_ids_partial_ratio': vendor_group_ids_partial_ratio,
